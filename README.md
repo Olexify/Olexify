@@ -46,7 +46,7 @@ B-but it's not like I built cool things behind the curtain for you or anything..
 * 🚀 Making oddly specific utilities
 * 🤤 Olives
 * 🫵 Talented people
-<br clear="right"/><img width="640" height="640" alt="ezgif-2ee39ae783c875ee" src="https://github.com/user-attachments/assets/b7a6f564-13a1-4273-b3ca-ba7e3219d9cf" />
+<br clear="right"/>
 
 
 ### 🌱 Currently learning
