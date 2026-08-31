@@ -33,20 +33,21 @@ Most of my work lives in private repositories, so this GitHub may look suspiciou
 B-but it's not like I built cool things behind the curtain for you or anything... 🛠️
 
 <a href="https://github.com/Olexify/FoxiSubs">
-  <img align="right" width="280" height="280" src="https://github.com/user-attachments/assets/6dc1ec92-c8f5-4036-9217-92d28a73aa4b" alt="Foxi Subs" />
+  <img align="right" width="280" height="280" src="https://github.com/user-attachments/assets/e342d2b9-62fa-4ecf-9c3f-a4324c2a176b" alt="Foxi Subs" />
 </a>
 
 ### ⚡ Things I enjoy
 
-* 💻 Building computers is kinda fun
-* 🎮 Making games smells pure enjoyment
-* 📹 Learning YouTube is such a rabbit hole
-* 🇯🇵 Foreign languages
-* 📚 Self-development stuff
+* 💻 Building computers (Cliche)
+* 🎮 Making games & strange experiments
+* 📹 YouTube is such a rabbit hole
+* 🇯🇵 Learning Japanese
+* 📚 Self-development & habit ideas
 * 🚀 Making oddly specific utilities
 * 🤤 Olives
 * 🫵 Talented people
-<br clear="right"/>
+<br clear="right"/><img width="640" height="640" alt="ezgif-2ee39ae783c875ee" src="https://github.com/user-attachments/assets/b7a6f564-13a1-4273-b3ca-ba7e3219d9cf" />
+
 
 ### 🌱 Currently learning
 
