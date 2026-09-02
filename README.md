@@ -1,13 +1,13 @@
 <h4 align="center">🍹 Languages & Frameworks 🌴</h4>
 
-[![]\([https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\](https://www.python.org/](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white\)]\(https://www.python.org/))
-[![]\([https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)\](https://isocpp.org/](https://img.shields.io/badge/-C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white\)]\(https://isocpp.org/))
-[![]\([https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)\](https://www.unrealengine.com/](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge\&logo=unrealengine\&logoColor=white\)]\(https://www.unrealengine.com/))
-[![]\([https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)\](https://reactjs.org/](https://img.shields.io/badge/-React-61dafb?style=for-the-badge\&logo=react\&logoColor=ffffff\)]\(https://reactjs.org/))
-[![]\([https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)\](https://www.typescriptlang.org/](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge\&logo=typescript\&logoColor=white\)]\(https://www.typescriptlang.org/))
-[![]\([https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)\](https://vitejs.dev/](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=ffffff\)]\(https://vitejs.dev/))
-[![]\([https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)\](https://www.docker.com/](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=ffffff\)]\(https://www.docker.com/))
-[![]\([https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)\](https://nodejs.org/](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge\&logo=node.js\&logoColor=ffffff\)]\(https://nodejs.org/))
+[![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
+[![](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)](https://vitejs.dev/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 <!--[![](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) -->
 
 ***
