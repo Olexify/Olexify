@@ -17,7 +17,7 @@
 
 ***
 
-# 👋 Welcome to my digital workshop<img src="https://viewcounter.live/Olexify?repo=Olexify&label=Repository%20Views" alt="Repository Views" />
+# 👋 Welcome to my digital workshop
 ```txt
 🚀 Loading Olexify.exe...
 
