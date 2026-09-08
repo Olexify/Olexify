@@ -17,7 +17,7 @@
 
 ***
 
-# 👋 Welcome to my digital workshop<img src="https://komarev.com/ghpvc/?username=Olexify&label=visitors&color=orange&style=flat-square&base=10000" alt="visitors" />
+# 👋 Welcome to my digital workshop<img src="https://viewcounter.live/Olexify?repo=Olexify&label=Repository%20Views" alt="Repository Views" />
 ```txt
 🚀 Loading Olexify.exe...
 
