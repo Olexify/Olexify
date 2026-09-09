@@ -104,7 +104,7 @@ Connection status: [STABLE]
 <a href="https://x.com/Olexifyyy"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.patreon.com/Olexifyyy"><img src="https://img.shields.io/badge/-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" /></a>
 <a href="http://ko-fi.com/olexify"><img src="https://img.shields.io/badge/-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
-<a href="https://discord.gg/Ry9Md7cMJ"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://discord.gg/hnujkns78k"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="mailto:olexifyyy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
