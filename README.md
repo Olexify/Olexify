@@ -56,8 +56,8 @@ I don't build shortcuts. Learning takes work, and anything promising otherwise i
 
 - **Remove the friction, not the effort.** Setup, syncing, wrangling files: that's overhead, and overhead is worth automating. The part that actually teaches you should stay hard.
 - **Recognition isn't memory.** Looking a word up feels like progress. Mostly it isn't. What sticks is guessing before you look, and making the sentence yourself.
-- **Comprehensible input beats grinding.** Material you understand about 90-95% of is hard enough to teach you something and easy enough that you'll finish it.
-- **Be honest about the numbers.** Streaks and stats show what you did, not what you know, and software should say so instead of letting you believe otherwise.
+- **Comprehensible input beats grinding.** Material, context of which you understand about 45-50% will definitely teach you something.
+- **Be honest about the numbers.** My Gamified Streaks and Stats show what you did, not what you know, and software should say so instead of letting you believe otherwise.
 
 ---
 
