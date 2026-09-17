@@ -40,7 +40,7 @@ The watching is the easy part. The tool is there so your effort goes into the la
 
 <br clear="right"/>
 
-### 📝 LeoNote · [LeoNote.app](https://leonote.app)
+### 🦁 LeoNote · [LeoNote.app](https://leonote.app)
 
 A knowledge workspace for Windows that works the second you open it. Notes, a research graph, browser-style workspaces, tasks, documents, spreadsheets, and a media player built in. It's for the part of studying that happens after the lesson. Friendly to AI agents, and you pay once.
 
