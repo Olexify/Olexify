@@ -32,7 +32,7 @@ A browser extension that turns whatever you were already going to watch into stu
 
 The watching is the easy part. The tool is there so your effort goes into the language instead of the setup.
 
-46 languages, built on the open Yomitan dictionary ecosystem. No accounts, no telemetry, and your study data never leaves the browser. It's my personal pride and a piece of my heart.
+46 languages, built on the open Yomitan dictionary ecosystem. No accounts, no telemetry, and your study data never leaves the browser. It grants me eternal pride and has a piece of my heart in it.
 
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/firefox/addon/Kitsumi/)
 [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/kitsumi/ciiembegoahhehnfdkbanhioobokjdkd)
