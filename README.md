@@ -2,9 +2,9 @@
 
 **I build software that helps people learn, and I'm betting my career on it.**
 
-Teaching tools stick around. If someone picks up a language, or a better way of thinking, they keep it and they pass it on. That's the most useful thing I know how to make, and it's what I'd like the work judged on.
+Educational software that sticks with you around. If someone picks up a language, or a better way of thinking, they keep it and they pass it on. That's the most useful thing I know how to make, and it's what I'd like the work judged on.
 
-Digital workshop · Ukraine · Build, learn, repeat
+Digital workshop · Ukraine · Create. Serve. Thrive
 
 [![olexify.dev](https://img.shields.io/badge/olexify.dev-0F172A?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://olexify.dev)
 [![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:olexifyyy@gmail.com)
@@ -16,7 +16,7 @@ Loading Olexify.exe...
 
 [OK]   Building projects
 [OK]   Teaching things sideways
-[OK]   Learning Japanese
+[OK]   Learning languages
 [WARN] Ideas exceeding available hours
 ```
 
