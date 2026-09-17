@@ -36,7 +36,7 @@ The watching is the easy part. The tool is there so your effort goes into the la
 
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/firefox/addon/Kitsumi/)
 [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/kitsumi/ciiembegoahhehnfdkbanhioobokjdkd)
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Olexify/Kitsumi)
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Olexify/Kitsumi)
 
 <br clear="right"/>
 
