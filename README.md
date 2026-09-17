@@ -1,10 +1,12 @@
 <a href="https://kitsumi.org">
-  <img align="right" width="210" src="https://github.com/user-attachments/assets/e342d2b9-62fa-4ecf-9c3f-a4324c2a176b" alt="Kitsumi" />
+  <img align="right" width="190" src="https://github.com/user-attachments/assets/e342d2b9-62fa-4ecf-9c3f-a4324c2a176b" alt="Kitsumi" />
 </a>
 
 # Olexify
 
-**I make software that teaches you something while you're doing something else.**
+**I build software that helps people learn — and I'm betting my career on it.**
+
+Teaching tools compound. Someone who picks up a language, or a way of thinking, keeps it for good, and passes it on. That makes education the most useful thing I know how to build, and the work I want to be measured by.
 
 Digital workshop · Ukraine · Build → learn → repeat
 
@@ -12,6 +14,8 @@ Digital workshop · Ukraine · Build → learn → repeat
 [![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:olexifyyy@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-0F172A?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hnujkns78k)
 [![YouTube](https://img.shields.io/badge/YouTube-0F172A?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Olexify)
+
+<br clear="right"/>
 
 ```txt
 Loading Olexify.exe...
@@ -22,29 +26,38 @@ Loading Olexify.exe...
 [WARN] Kanji learned fighting back
 ```
 
-<br clear="right"/>
-
 ---
 
 ## Shipped
 
-### ♟️ Rook, Paper, Scissors! · [rookpaperscissors.com](https://rookpaperscissors.com)
-
-Chess, but nobody agreed to the rules. Power-up tiles, rule cards and chaos events, multiplayer with Twitch chat integration, no account needed. Free in the browser, and the biggest thing on my bench.
-
 ### 🦊 Kitsumi · [kitsumi.org](https://kitsumi.org)
 
-A browser extension that turns any subtitled video into a language lesson you didn't plan on taking. Interactive subtitles, dictionaries, study tools and Anki mining, laid over the videos you already watch.
+A browser extension that turns the video you were already going to watch into study material. Hover a word for readings, definitions, grammar, difficulty and frequency. Study Mode turns the current line into vocabulary practice, and anything worth keeping goes to Anki with its sentence, screenshot and audio. The watching is the easy part; the tool exists so the rest of your effort goes into the language instead of the setup.
 
-46 languages. No accounts, no telemetry — study data never leaves the browser.
+46 languages, built on the open Yomitan dictionary ecosystem. No accounts, no telemetry — study data never leaves the browser.
 
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/firefox/addon/Kitsumi/)
 [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/kitsumi/ciiembegoahhehnfdkbanhioobokjdkd)
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Olexify/Kitsumi)
 
+### ♟️ Rook, Paper, Scissors! · [rookpaperscissors.com](https://rookpaperscissors.com)
+
+Chess, but nobody agreed to the rules. Power-up tiles, rule cards and chaos events, multiplayer with Twitch chat integration, no account needed. You learn the board by having it argue with you. Free in the browser, and the biggest thing on my bench.
+
 ### 📝 LeoNote · [leonote.app](https://leonote.app)
 
-A knowledge workspace for Windows that works the moment you open it — notes, a research graph, browser-style workspaces, tasks, documents, spreadsheets and a built-in media player. AI-agent friendly, one-time purchase.
+A knowledge workspace for Windows that works the moment you open it — notes, a research graph, browser-style workspaces, tasks, documents, spreadsheets and a built-in media player. Built for the part of studying that happens after the lesson. AI-agent friendly, one-time purchase.
+
+---
+
+## How I think about learning
+
+I don't build shortcuts. Learning takes real effort, and software that promises otherwise is selling something. What software *can* do is clear away everything that isn't learning, so the effort lands where it counts.
+
+- **Remove the friction, not the effort.** Setup, syncing and file-wrangling are overhead worth automating. The part that actually teaches you is the part that should stay hard.
+- **Recognition is not memory.** Looking a word up feels like progress more than it is. What builds recall is guessing before you look, and producing the thing yourself.
+- **Comprehensible input beats grinding.** Material you understand around 90–95% of is hard enough to teach and easy enough to finish.
+- **Measure honestly.** Streaks and stats are a log of what you did, not a certificate of what you know, and software should say so.
 
 ---
 
@@ -67,8 +80,8 @@ Browser extensions across Firefox and Chrome, static sites on Cloudflare Workers
 
 ## Working on
 
+- **Kitsumi** — dictionary coverage beyond Japanese, and study tools that ask more of you than a lookup
 - **Rook, Paper, Scissors!** — new rule cards, and getting more of the chaos online
-- **Kitsumi** — dictionary coverage beyond Japanese, and sharper study tools
 - **Rust**, because some things deserve to be fast
 - **Japanese** — the kanji war continues
 
