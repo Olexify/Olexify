@@ -1,29 +1,23 @@
-<a href="https://kitsumi.org">
-  <img align="right" width="190" src="https://github.com/user-attachments/assets/e342d2b9-62fa-4ecf-9c3f-a4324c2a176b" alt="Kitsumi" />
-</a>
-
 # Olexify
 
-**I build software that helps people learn — and I'm betting my career on it.**
+**I build software that helps people learn, and I'm betting my career on it.**
 
-Teaching tools compound. Someone who picks up a language, or a way of thinking, keeps it for good, and passes it on. That makes education the most useful thing I know how to build, and the work I want to be measured by.
+Teaching tools stick around. If someone picks up a language, or a better way of thinking, they keep it and they pass it on. That's the most useful thing I know how to make, and it's what I'd like the work judged on.
 
-Digital workshop · Ukraine · Build → learn → repeat
+Digital workshop · Ukraine · Build, learn, repeat
 
 [![olexify.dev](https://img.shields.io/badge/olexify.dev-0F172A?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://olexify.dev)
 [![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:olexifyyy@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-0F172A?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hnujkns78k)
 [![YouTube](https://img.shields.io/badge/YouTube-0F172A?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Olexify)
 
-<br clear="right"/>
-
 ```txt
 Loading Olexify.exe...
 
 [OK]   Building projects
-[OK]   Making random software
-[OK]   Fighting Japanese kanji
-[WARN] Kanji learned fighting back
+[OK]   Teaching things sideways
+[OK]   Learning Japanese
+[WARN] Ideas exceeding available hours
 ```
 
 ---
@@ -32,32 +26,38 @@ Loading Olexify.exe...
 
 ### 🦊 Kitsumi · [kitsumi.org](https://kitsumi.org)
 
-A browser extension that turns the video you were already going to watch into study material. Hover a word for readings, definitions, grammar, difficulty and frequency. Study Mode turns the current line into vocabulary practice, and anything worth keeping goes to Anki with its sentence, screenshot and audio. The watching is the easy part; the tool exists so the rest of your effort goes into the language instead of the setup.
+<a href="https://kitsumi.org"><img align="right" width="190" src="https://github.com/user-attachments/assets/e342d2b9-62fa-4ecf-9c3f-a4324c2a176b" alt="Kitsumi" /></a>
 
-46 languages, built on the open Yomitan dictionary ecosystem. No accounts, no telemetry — study data never leaves the browser.
+A browser extension that turns whatever you were already going to watch into study material. Hover a word and you get the reading, the definition, the grammar, how common it is and how hard it is. Study Mode takes the line you're on and turns it into vocabulary practice, and anything worth keeping goes to Anki with its sentence, a screenshot and the audio.
+
+The watching is the easy part. The tool is there so your effort goes into the language instead of the setup.
+
+46 languages, built on the open Yomitan dictionary ecosystem. No accounts, no telemetry, and your study data never leaves the browser.
 
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/firefox/addon/Kitsumi/)
 [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/kitsumi/ciiembegoahhehnfdkbanhioobokjdkd)
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Olexify/Kitsumi)
 
+<br clear="right"/>
+
 ### ♟️ Rook, Paper, Scissors! · [rookpaperscissors.com](https://rookpaperscissors.com)
 
-Chess, but nobody agreed to the rules. Power-up tiles, rule cards and chaos events, multiplayer with Twitch chat integration, no account needed. You learn the board by having it argue with you. Free in the browser, and the biggest thing on my bench.
+Chess, but nobody agreed to the rules. Power-up tiles, rule cards, chaos events, multiplayer with Twitch chat wired in, and no account needed. You learn the board by having it argue with you. Free in the browser, and the biggest thing on my bench right now.
 
 ### 📝 LeoNote · [leonote.app](https://leonote.app)
 
-A knowledge workspace for Windows that works the moment you open it — notes, a research graph, browser-style workspaces, tasks, documents, spreadsheets and a built-in media player. Built for the part of studying that happens after the lesson. AI-agent friendly, one-time purchase.
+A knowledge workspace for Windows that works the second you open it. Notes, a research graph, browser-style workspaces, tasks, documents, spreadsheets, and a media player built in. It's for the part of studying that happens after the lesson. Friendly to AI agents, and you pay once.
 
 ---
 
 ## How I think about learning
 
-I don't build shortcuts. Learning takes real effort, and software that promises otherwise is selling something. What software *can* do is clear away everything that isn't learning, so the effort lands where it counts.
+I don't build shortcuts. Learning takes work, and anything promising otherwise is selling you something. What software can do is get everything that *isn't* learning out of the way.
 
-- **Remove the friction, not the effort.** Setup, syncing and file-wrangling are overhead worth automating. The part that actually teaches you is the part that should stay hard.
-- **Recognition is not memory.** Looking a word up feels like progress more than it is. What builds recall is guessing before you look, and producing the thing yourself.
-- **Comprehensible input beats grinding.** Material you understand around 90–95% of is hard enough to teach and easy enough to finish.
-- **Measure honestly.** Streaks and stats are a log of what you did, not a certificate of what you know, and software should say so.
+- **Remove the friction, not the effort.** Setup, syncing, wrangling files: that's overhead, and overhead is worth automating. The part that actually teaches you should stay hard.
+- **Recognition isn't memory.** Looking a word up feels like progress. Mostly it isn't. What sticks is guessing before you look, and making the sentence yourself.
+- **Comprehensible input beats grinding.** Material you understand about 90-95% of is hard enough to teach you something and easy enough that you'll finish it.
+- **Be honest about the numbers.** Streaks and stats show what you did, not what you know, and software should say so instead of letting you believe otherwise.
 
 ---
 
@@ -74,22 +74,22 @@ I don't build shortcuts. Learning takes real effort, and software that promises 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Browser extensions across Firefox and Chrome, static sites on Cloudflare Workers, desktop apps for Windows, and whatever the idea actually needs.
+Browser extensions for Firefox and Chrome, static sites on Cloudflare Workers, desktop apps for Windows, and whatever else the idea turns out to need.
 
 ---
 
 ## Working on
 
-- **Kitsumi** — dictionary coverage beyond Japanese, and study tools that ask more of you than a lookup
-- **Rook, Paper, Scissors!** — new rule cards, and getting more of the chaos online
+- **Kitsumi**, pushing dictionary coverage past Japanese and building study tools that ask more of you than a lookup
+- **Rook, Paper, Scissors!**, new rule cards and getting more of the chaos online
 - **Rust**, because some things deserve to be fast
-- **Japanese** — the kanji war continues
+- **Japanese**, slowly and stubbornly
 
 ## Elsewhere
 
-Most of my work lives in private repositories and ships as products rather than source. The public side of each one lives on its own site, linked above.
+Most of my work lives in private repos and ships as products rather than source, so the public side of each one is on its own site above.
 
-Ideas and collaborations are welcome — the stranger the better.
+If you've got an idea, or some controlled chaos, I'm interested. The stranger the better.
 
 [![olexify.dev](https://img.shields.io/badge/olexify.dev-0F172A?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://olexify.dev)
 [![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:olexifyyy@gmail.com)
