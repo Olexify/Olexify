@@ -32,7 +32,7 @@ A browser extension that turns whatever you were already going to watch into stu
 
 The watching is the easy part. The tool is there so your effort goes into the language instead of the setup.
 
-46 languages, built on the open Yomitan dictionary ecosystem. No accounts, no telemetry, and your study data never leaves the browser.
+46 languages, built on the open Yomitan dictionary ecosystem. No accounts, no telemetry, and your study data never leaves the browser. It's my personal pride and a piece of my heart.
 
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/firefox/addon/Kitsumi/)
 [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/kitsumi/ciiembegoahhehnfdkbanhioobokjdkd)
@@ -40,13 +40,13 @@ The watching is the easy part. The tool is there so your effort goes into the la
 
 <br clear="right"/>
 
-### ♟️ Rook, Paper, Scissors! · [rookpaperscissors.com](https://rookpaperscissors.com)
-
-Chess, but nobody agreed to the rules. Power-up tiles, rule cards, chaos events, multiplayer with Twitch chat wired in, and no account needed. You learn the board by having it argue with you. Free in the browser, and the biggest thing on my bench right now.
-
 ### 📝 LeoNote · [leonote.app](https://leonote.app)
 
 A knowledge workspace for Windows that works the second you open it. Notes, a research graph, browser-style workspaces, tasks, documents, spreadsheets, and a media player built in. It's for the part of studying that happens after the lesson. Friendly to AI agents, and you pay once.
+
+### ♟️ Rook, Paper, Scissors! · [rookpaperscissors.com](https://rookpaperscissors.com)
+
+After you've done learning, you deserve a moment of joy with family and friends for your soul. In that case what could be more fun than Chess, with a quirk that nobody agreed the rules. Power-up tiles, rule cards, chaos events, multiplayer with Twitch chat wired in(must be a Dougdougs wild dream), and the best thing is you're just 1 click away from the best 15 minutes of your day. You learn the board by having it argue with you, and learn acceptance by accepting it for what it is. Game is Free in the browser, and the second biggest thing on my bench right now.
 
 ---
 
