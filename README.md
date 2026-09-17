@@ -46,7 +46,7 @@ A knowledge workspace for Windows that works the second you open it. Notes, a re
 
 ### ♟️ Rook, Paper, Scissors! · [RookPaperScissors.com](https://rookpaperscissors.com)
 
-After you've done learning, you deserve a moment of joy with family and friends for your soul. In that case what could be more fun than Chess, with a quirk that nobody agreed the rules. Power-up tiles, rule cards, chaos events, multiplayer with Twitch chat wired in(must be a Dougdougs wild dream), and the best thing is you're just 1 click away from the best 15 minutes of your day. You learn the board by having it argue with you, and learn acceptance by accepting it for what it is. Game is Free in the browser, and the second biggest thing on my bench right now.
+After you've done learning, you deserve a moment of joy with family and friends for your soul. In that case what could be more fun than Chess, with a quirk that nobody agreed the rules. Power-up tiles, rule cards, chaos events, multiplayer with Twitch chat wired in(must be a infamous streamers wild dream), and the best thing is you're just 1 click away from the best 15 minutes of your day. You learn the board by having it argue with you, and learn acceptance by accepting it for what it is. Game is Free in the browser, and the second biggest thing on my bench right now.
 
 ---
 
