@@ -24,7 +24,7 @@ Loading Olexify.exe...
 
 ## Shipped
 
-### 🦊 Kitsumi · [kitsumi.org](https://kitsumi.org)
+### 🦊 Kitsumi · [Kitsumi.org](https://kitsumi.org)
 
 <a href="https://kitsumi.org"><img align="right" width="190" src="https://github.com/user-attachments/assets/e342d2b9-62fa-4ecf-9c3f-a4324c2a176b" alt="Kitsumi" /></a>
 
@@ -40,11 +40,11 @@ The watching is the easy part. The tool is there so your effort goes into the la
 
 <br clear="right"/>
 
-### 📝 LeoNote · [leonote.app](https://leonote.app)
+### 📝 LeoNote · [LeoNote.app](https://leonote.app)
 
 A knowledge workspace for Windows that works the second you open it. Notes, a research graph, browser-style workspaces, tasks, documents, spreadsheets, and a media player built in. It's for the part of studying that happens after the lesson. Friendly to AI agents, and you pay once.
 
-### ♟️ Rook, Paper, Scissors! · [rookpaperscissors.com](https://rookpaperscissors.com)
+### ♟️ Rook, Paper, Scissors! · [RookPaperScissors.com](https://rookpaperscissors.com)
 
 After you've done learning, you deserve a moment of joy with family and friends for your soul. In that case what could be more fun than Chess, with a quirk that nobody agreed the rules. Power-up tiles, rule cards, chaos events, multiplayer with Twitch chat wired in(must be a Dougdougs wild dream), and the best thing is you're just 1 click away from the best 15 minutes of your day. You learn the board by having it argue with you, and learn acceptance by accepting it for what it is. Game is Free in the browser, and the second biggest thing on my bench right now.
 
