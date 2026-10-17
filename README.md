@@ -1,5 +1,4 @@
 # Olexify
-
 <a href="https://github.com/Olexify/CuteFoxesGIFCounter">
   <img align="right" width="140" src="https://cutefoxesgifcounter.vercel.app/api/counter" alt="visitor counter" />
 </a>
@@ -108,6 +107,8 @@ If you've got an idea, or some controlled chaos, I'm interested. The stranger th
 ---
 
 <p align="center">
-  <img src="https://cutefoxesgifcounter.vercel.app/api/counter" width="357" alt="visitor counter" /><br/>
-  <sub>🦊 visitors, counted by tiny foxgirls</sub>
+  <a href="https://github.com/Olexify/CuteFoxesGIFCounter">
+    <img src="https://cutefoxesgifcounter.vercel.app/api/counter" width="357" alt="visitor counter" />
+  </a><br/>
+  <sub>🦊 visitors, counted by tiny helpers</sub>
 </p>
