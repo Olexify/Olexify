@@ -1,5 +1,4 @@
-# Olexify
-<a href="https://github.com/Olexify/CuteFoxesGIFCounter">
+# Olexify <a href="https://github.com/Olexify/CuteFoxesGIFCounter">
   <img align="right" width="140" src="https://cutefoxesgifcounter.vercel.app/api/counter" alt="visitor counter" />
 </a>
 
