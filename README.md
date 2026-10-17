@@ -1,6 +1,10 @@
+<img align="right" width="340" src="https://cutefoxesgifcounter.vercel.app/api/counter" alt="visitor counter" />
+
 # Olexify
 
 **I build software that helps people learn, and I'm betting my career on it.**
+
+<br clear="right" />
 
 <p align="center"><img src="https://cutefoxesgifcounter.vercel.app/api/counter" width="425" /></p>
 
