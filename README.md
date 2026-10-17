@@ -102,3 +102,10 @@ If you've got an idea, or some controlled chaos, I'm interested. The stranger th
 [![Instagram](https://img.shields.io/badge/Instagram-0F172A?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/Olexify)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-0F172A?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/olexify)
 [![Patreon](https://img.shields.io/badge/Patreon-0F172A?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/Olexifyyy)
+
+---
+
+<p align="center">
+  <img src="https://cutefoxesgifcounter.vercel.app/api/counter" width="357" alt="visitor counter" /><br/>
+  <sub>🦊 visitors, counted by tiny foxgirls</sub>
+</p>
