@@ -1,4 +1,4 @@
-# Olexify <a href="https://github.com/Olexify/CuteFoxesGIFCounter"><img align="right" width="100" src="https://cutefoxesgifcounter.vercel.app/api/counter" alt="visitor counter" /></a>
+# Olexify <a href="https://github.com/Olexify/CuteFoxesGIFCounter"><img align="right" width="140" src="https://cutefoxesgifcounter.vercel.app/api/counter" alt="visitor counter" /></a>
 
 **I build software that helps people learn, and I'm betting my career on it.**
 
