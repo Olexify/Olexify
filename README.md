@@ -1,6 +1,6 @@
 # Olexify
 
-<img align="right" width="340" src="https://cutefoxesgifcounter.vercel.app/api/counter" alt="visitor counter" />
+<img align="right" width="238" src="https://cutefoxesgifcounter.vercel.app/api/counter" alt="visitor counter" />
 
 **I build software that helps people learn, and I'm betting my career on it.**
 
