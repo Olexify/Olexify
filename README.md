@@ -1,7 +1,7 @@
 # Olexify
-
-<img align="right" width="340" src="https://cutefoxesgifcounter.vercel.app/api/counter" alt="visitor counter" />
-
+<a href="https://github.com/Olexify/CuteFoxesGIFCounter">
+  <img align="right" width="340" src="https://cutefoxesgifcounter.vercel.app/api/counter" alt="visitor counter" />
+</a>
 **I build software that helps people learn, and I'm betting my career on it.**
 
 Educational software that sticks with you around. If someone picks up a language, or a better way of thinking, they keep it and they pass it on. That's the most useful thing I know how to make, and it's what I'd like the work judged on.
