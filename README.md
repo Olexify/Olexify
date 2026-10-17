@@ -1,7 +1,7 @@
 # Olexify
 
 <a href="https://github.com/Olexify/CuteFoxesGIFCounter">
-  <img align="right" width="340" src="https://cutefoxesgifcounter.vercel.app/api/counter" alt="visitor counter" />
+  <img align="right" width="140" src="https://cutefoxesgifcounter.vercel.app/api/counter" alt="visitor counter" />
 </a>
 
 **I build software that helps people learn, and I'm betting my career on it.**
@@ -106,3 +106,8 @@ If you've got an idea, or some controlled chaos, I'm interested. The stranger th
 [![Patreon](https://img.shields.io/badge/Patreon-0F172A?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/Olexifyyy)
 
 ---
+
+<p align="center">
+  <img src="https://cutefoxesgifcounter.vercel.app/api/counter" width="357" alt="visitor counter" /><br/>
+  <sub>🦊 visitors, counted by tiny foxgirls</sub>
+</p>
