@@ -24,7 +24,12 @@ Loading Olexify.exe...
 
 ## Shipped
 
-### 🦊 Kitsumi · [Kitsumi.org](https://kitsumi.org) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/firefox/addon/Kitsumi/) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/kitsumi/ciiembegoahhehnfdkbanhioobokjdkd) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Olexify/Kitsumi)
+<h3>
+  🦊 Kitsumi · <a href="https://kitsumi.org">Kitsumi.org</a>
+  <a href="https://addons.mozilla.org/firefox/addon/Kitsumi/"><img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" /></a>
+  <a href="https://chromewebstore.google.com/detail/kitsumi/ciiembegoahhehnfdkbanhioobokjdkd"><img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/Olexify/Kitsumi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</h3>
 
 <a href="https://kitsumi.org"><img align="right" width="190" src="https://github.com/user-attachments/assets/e342d2b9-62fa-4ecf-9c3f-a4324c2a176b" alt="Kitsumi" /></a>
 
