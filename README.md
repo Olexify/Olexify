@@ -24,12 +24,7 @@ Loading Olexify.exe...
 
 ## Shipped
 
-<h3>
-  🦊 Kitsumi · <a href="https://kitsumi.org">Kitsumi.org</a>
-  <a href="https://addons.mozilla.org/firefox/addon/Kitsumi/"><img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" /></a>
-  <a href="https://chromewebstore.google.com/detail/kitsumi/ciiembegoahhehnfdkbanhioobokjdkd"><img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/Olexify/Kitsumi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</h3>
+### 🦊 Kitsumi · 
 
 <a href="https://kitsumi.org"><img align="right" width="190" src="https://github.com/user-attachments/assets/e342d2b9-62fa-4ecf-9c3f-a4324c2a176b" alt="Kitsumi" /></a>
 
@@ -38,12 +33,13 @@ A browser extension that turns whatever you were already going to watch into stu
 The watching is the easy part. The tool is there so your effort goes into the language instead of the setup.
 
 46 languages, works with Yomitan dictionaries. No accounts, no telemetry, and your study data never leaves the browser. It grants me eternal pride and has a piece of my heart in it.
-
+· [Kitsumi.org](https://kitsumi.org) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/firefox/addon/Kitsumi/) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/kitsumi/ciiembegoahhehnfdkbanhioobokjdkd) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Olexify/Kitsumi)
 <div style="clear: right;"></div>
 
-### 🦁 LeoNote · [LeoNote.app](https://leonote.app) [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Olexify/Leonote)
+### 🦁 LeoNote · 
 
 A knowledge workspace for Windows that works the second you open it. Notes, a research graph, browser-style workspaces, tasks, documents, spreadsheets, and a media player built in. It's for the part of studying that happens after the lesson. Friendly to AI agents, and you pay once.
+· [LeoNote.app](https://leonote.app) [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Olexify/Leonote)
 
 ### ♟️ Rook, Paper, Scissors! · [RookPaperScissors.com](https://rookpaperscissors.com)
 
